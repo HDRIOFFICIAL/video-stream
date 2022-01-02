@@ -12,57 +12,86 @@
     "repository": "https://github.com/levina-lab/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
+        
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
-            "required": true
+            "required": true ,
+            "value" : "16556248"
         },
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
-            "required": true
+            "required": true ,
+            "value" : "60f007fd751b1d9c6e3e253c0fa809d0"
         },
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
-            "required": true
+            "required": true ,
+            "value" : "5005990177:AAGz3XqvT8UctqJkwmAetjb73CMPE7bbPgE"
         },
         "BOT_USERNAME": {
             "description": "your bot username from @BotFather",
-            "required": true
+            "required": true ,
+            "value" : "AssistentAlviero_bot"
         },
         "BOT_NAME": {
             "description": "fill with your bot name from @BotFather",
-            "required": true
+            "required": true ,
+            "value": "AssistentAlviero"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
-            "required": true
+            "required": true ,
+            "value": "AssistentAlviero"
         },
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
-            "required": true
+            "required": true ,
+            "value": "BQBzjoV7k8F3m3QkIueuMNHnajrQL7HMfy-arxrYQea1aQ4MacRjOST2mWuPhjpON7x1m_NMUrjvcG8or5QfXSXNHRRzzS3lbFrXCMLIWD8zl1ejs2wPt5K4ZI5L_zUATG5UGBeyWmCEFO8lVwUllGEbxaGR22BfhceAaazrS25IOwu0REDgIt_3l_V4In1rPXcTvrVb0Gv2IIS3icTUfSlu3FKN9oObU7GbeRzLOHh6cMQ_rJkiyuGI7g2dL15crIcnpK7TVMNjpCSlhgQZ-KXhAOEYdCTZv4SHXwexAzMeieDBY5t388q1_jzvcO1Jx4--1vgXJLmV5Tzv_qyh87BZfztTUwA"
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
-            "required": true
+            "required": true ,
+            "value": "2002110095"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "VeezSupportGroup"
+            "value": "angelsigh"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "levinachannel"
+            "value": "angelsigh"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "dlwrml"
+            "value": "rosxyca"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Levina"
+            "value": "AssistentAlviero"
+        },
+       "ALIVE_IMG": {
+            "description": "ALIVE BUAT FOTO PAS COMMAND ALIVE",
+            "required": false ,
+            "value": "https://telegra.ph/file/d76654ee9ce0cbbf437ca.jpg"
+        },
+        "IMG_1": {
+            "description": "GAMBAR PAS ADD QUEOUE",
+            "required": false ,
+            "value": "https://telegra.ph/file/360cdc2481c0d16400df0.png"
+        },
+        "IMG_2": {
+            "description": "GAMBAR STREAMING STARTED",
+            "required": false ,
+            "value": "https://telegra.ph/file/360cdc2481c0d16400df0.png"
+        },
+        "IMG_3": {
+            "description": "GAMBAR SKIP",
+            "required": false ,
+            "value": "https://telegra.ph/file/360cdc2481c0d16400df0.png"
         }
     },
     "addons": [],
@@ -85,3 +114,6 @@
     },
     "stack": "container"
 }
+    
+
+

@@ -16,22 +16,22 @@
             "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": true ,
-            "value" : "16556248"
+            "value" : "165248"
         },
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
             "required": true ,
-            "value" : "60f007fd751b1d9c6e3e253c0fa809d0"
+            "value" : "60f007fd9c6e3e253c0fa809d0"
         },
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
             "required": true ,
-            "value" : "5005990177:AAGz3XqvT8UctqJkwmAetjb73CMPE7bbPgE"
+            "value" : "500599017Gz3XqvT8UctqJkwmAetjb73CMPE7bbPgE"
         },
         "BOT_USERNAME": {
             "description": "your bot username from @BotFather",
             "required": true ,
-            "value" : "AssistentAlviero_bot"
+            "value" : "Assisteno_bot"
         },
         "BOT_NAME": {
             "description": "fill with your bot name from @BotFather",
@@ -46,7 +46,7 @@
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
             "required": true ,
-            "value": "BQBzjoV7k8F3m3QkIueuMNHnajrQL7HMfy-arxrYQea1aQ4MacRjOST2mWuPhjpON7x1m_NMUrjvcG8or5QfXSXNHRRzzS3lbFrXCMLIWD8zl1ejs2wPt5K4ZI5L_zUATG5UGBeyWmCEFO8lVwUllGEbxaGR22BfhceAaazrS25IOwu0REDgIt_3l_V4In1rPXcTvrVb0Gv2IIS3icTUfSlu3FKN9oObU7GbeRzLOHh6cMQ_rJkiyuGI7g2dL15crIcnpK7TVMNjpCSlhgQZ-KXhAOEYdCTZv4SHXwexAzMeieDBY5t388q1_jzvcO1Jx4--1vgXJLmV5Tzv_qyh87BZfztTUwA"
+            "value": "BQBzjoV7k8NHnajrQL7HMfy-arxrYQea1aQ4MacRjOST2mWuPhjpON7x1m_NMUrjvcG8or5QfXSXNHRRzzS3lbFrXCMLIWD8zl1ejs2wPt5K4ZI5L_zUATG5UGBeyWmCEFO8lVwUllGEbxaGR22BfhceAaazrS25IOwu0REDgIt_3l_V4In1rPXcTvrVb0Gv2IIS3icTUfSlu3FKN9oObU7GbeRzLOHh6cMQ_rJkiyuGI7g2dL15crIcnpK7TVMNjpCSlhgQZ-KXhAOEYdCTZv4SHXwexAzMeieDBY5t388q1_jzvcO1Jx4--1vgXJLmV5Tzv_qyh87BZfztTUwA"
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",

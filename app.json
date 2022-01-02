@@ -12,8 +12,8 @@
     "repository": "https://github.com/levina-lab/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
-        
-        "API_ID": {
+     
+            "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": true ,
             "value" : "16556248"
